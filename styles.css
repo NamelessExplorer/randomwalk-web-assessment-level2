@@ -18,3 +18,19 @@
     align-items: center;
     position:relative;
 }
+
+.lower{
+    border-bottom: none;
+}
+
+.right{
+    border-right:none;
+}
+
+.left{
+    border-left: none;
+}
+
+.top{
+    border-top:none;
+}
